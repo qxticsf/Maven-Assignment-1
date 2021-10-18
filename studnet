@@ -1,0 +1,27 @@
+[{1,2,3,4}]
+  "id": 1,
+  "first_name": "Caleb",
+  "gpa": "3.6",
+  "email": "jdtg0@aws.com",
+  "gender": "Female"
+}, {
+  "id": 2,
+  "first_name": "Aida",
+  "gpa": "3.1",
+  "email": "adattt@test.gov",
+  "gender": "Female"
+}, {
+  "id": 3,
+  "first_name": "Alex",
+  "gap": "3.4",
+  "email": "Adavis@bccs.com",
+  "gender": "Male"
+}, {
+  "id": 4,
+  "first_name": "Meba",
+  "gpa": "3.2",
+  "email": "mtravis@yahoo.com",
+  "gender": "Male"
+}](Caleb, Aida, Alex, Meba,)]
+
+
